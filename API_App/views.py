@@ -1,9 +1,9 @@
 """
 TO USE:
 
-APIViews: /dogs, /breeds, /dogs/<id>, breeds/<id>
+APIViews: /dogs, /breeds, /dogs/<id>, /breeds/<id>
 
-ViewSets: /dogs2, /breeds2, /dogs2/<id>, breeds2/<id>
+ViewSets: /api/dogs2, /api/breeds2, /api/dogs2/<id>, /api/breeds2/<id>
 
 """
 
