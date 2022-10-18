@@ -1,3 +1,12 @@
+"""
+TO USE:
+
+APIViews: /dogs, /breeds, /dogs/<id>, breeds/<id>
+
+ViewSets: /dogs2, /breeds2, /dogs2/<id>, breeds2/<id>
+
+"""
+
 from django.contrib.auth.models import *
 from django.contrib.auth import *
 from rest_framework import viewsets
